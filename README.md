@@ -1,7 +1,7 @@
 - 💎 Hi, I’m @davey-1
-- 💻 I’m interested in spatial analysis/image processing, technology ventures, and behavioral psych.
+- 💻 I’m interested in climate/energy, technology ventures, spatial & image processing, and behavioral psych.
 - 🌱 I’m currently into deep learning, particularly applications of convolutional neural networks. 
-- 💞️ I'm a PM/VC and a voracious learner--the files below are my self-paced homework assignments in AI/ML and data structures/algos.
+- 💞️ I'm a a voracious learner--the files below are my self-paced homework assignments in AI/ML and data structures/algos.
 - 📡 You can reach me at: linkedin.com/in/davidsheu
 
 <!---
